@@ -1,6 +1,4 @@
-# sample_code
-school management test project 
-
+---This is sample project----  
 put code sample to web root
 run structure.sql file for db creation
 edit db settings using application/config/database
